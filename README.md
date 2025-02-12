@@ -26,3 +26,10 @@ password = admin
 ![Screenshot 2025-02-12 200650](https://github.com/user-attachments/assets/8e362feb-c4f5-438b-868e-6110dab6388a)
 
 ![Screenshot 2025-02-12 200701](https://github.com/user-attachments/assets/1e6f927b-6617-41e5-9891-86e8b4842a8a)
+
+![Screenshot 2025-02-12 200713](![Screenshot 2025-02-12 200720](https://github.com/user-attachments/assets/340c6bbb-7a33-40e0-8ba8-82b9fd9916ba)
+
+![Screenshot 2025-02-12 200720](https://github.com/user-attachments/assets/0a050bd9-a839-4523-ada2-925279c43578)
+
+
+
