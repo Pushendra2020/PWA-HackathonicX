@@ -7,3 +7,8 @@
   1. Clone this repo.
   2. Simply run command # npm install
   3. npm run dev (For run the web application)
+
+# In the Application
+For Admin Dashboard
+Username = admin
+password = admin
