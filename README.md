@@ -29,7 +29,7 @@ password = admin
 
 ![Screenshot 2025-02-12 200713](![Screenshot 2025-02-12 200720](https://github.com/user-attachments/assets/340c6bbb-7a33-40e0-8ba8-82b9fd9916ba)
 
-![Screenshot 2025-02-12 200720](https://github.com/user-attachments/assets/0a050bd9-a839-4523-ada2-925279c43578)
+
 
 
 
